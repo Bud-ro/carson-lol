@@ -1,0 +1,14 @@
+---
+.title = "Blog",
+.date = @date("2025-03-31T00:00:00"),
+.author = "Carson",
+.layout = "blog.shtml",
+.alternatives = [{ 
+    .name = "rss",
+    .layout = "blog.xml", 
+    .output = "index.xml",
+}],
+.draft = false,
+--- 
+
+You can view all of my blog posts here. Be careful, you might gain some esoteric knowledge.

@@ -1,0 +1,12 @@
+---
+.title = "Hello Blog",
+.date = @date("2025-03-31T00:00:00"),
+.author = "Carson",
+.layout = "post.shtml",
+.draft = false,
+--- 
+
+I finally got around to making a blog. I'm using [Zine](https://zine-ssg.io/) for it, and so far I'm quite happy!
+The Zig ecosystem is looking strong, even in its early stages! I'm sure Zine will be a reliable tool long into the future.
+You'll be seeing a lot of blog posts from me in the coming months, I have been accumulating blog post ideas
+for years now so there will be plenty of interesting content to look forward to.

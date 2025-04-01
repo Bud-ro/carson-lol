@@ -1,0 +1,24 @@
+---
+.title = "Devlog - 2025",
+.date = @date("2025-04-01T00:00:00"),
+.author = "Carson",
+.layout = "devlog.shtml",
+.draft = false,
+--- 
+[]($section.id('about'))
+## About this Devlog
+
+This is my devlog, basically a section for mini-blog posts or thoughts that
+don't have enough justification for a full blog post.
+
+You can [subscribe to this page via RSS]($link.page('devlog').alternative('rss')).
+
+## [Testing]($section.id("2025-04-01T00:00:00"))
+I've been really working hard on software testing. I earnestly want to get
+better at it, since it seems like the main way of making software
+that works *at all*. It seems that not many people focus on it, and certainly
+don't think on it to the extent that they should. Integration testing on embedded
+devices has allowed me to find literally **dozens** of bugs in the short 1 year I've used it.
+I'll make a full blog post on it at some point, 
+hopefully within a few weeks of the full release of [Standalone Zine](https://zine-ssg.io/).
+Stay posted till then!

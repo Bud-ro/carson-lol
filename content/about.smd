@@ -1,0 +1,14 @@
+---
+.title = "About",
+.date = @date("2025-04-03T00:00:00"),
+.author = "Carson",
+.layout = "index.shtml",
+.draft = false,
+--- 
+
+This is my site. I go by `budro`, or Carson.
+
+I am a software developer primarily versed in embedded C development.
+I host my thoughts on software and sometimes other topics here.
+
+You can find some of my work (including the source for this site) on [Github](https://github.com/Bud-ro).

@@ -1,0 +1,7 @@
+Site {
+    .title = "Budro's Blog",
+    .host_url = "https://carson.lol",
+    .content_dir_path = "content",
+    .layouts_dir_path = "layouts",
+    .assets_dir_path = "assets",
+}
